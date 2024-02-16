@@ -1,0 +1,31 @@
+/* this is a css comment  */
+p{
+  font-family:unset
+    font-size:18px;
+}
+H1{
+    color: blue;
+    text-align: start;
+}
+
+footer{
+    color: blue;
+text-align: start;
+}
+/* use hashtag for ID */
+#my image{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+main p{
+    font-style: italic;
+}
+
+main> p{
+    font-weight: bold;
+}
+
+/* use dot for classes */
+.site title{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
