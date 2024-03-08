@@ -1,43 +1,63 @@
+.jaat{
+    position: relative;
+    text-align: center;
+    color: white;
+    }
+
+.haryana{
+    position: absolute;
+    top: 60%;
+    left: 40%;
+    font-size: 150px;
+}
+
 body{ 
     background-color: cadetblue;
+    font-family: Arial, Helvetica, sans-serif;
 }
-nav a {
-    font-size: 25px; font-weight: bolder; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: black; text-decoration: none;
-    overflow: auto;
-}
+
+
 nav ul{
+    margin: 2%;
+    padding: 2%;
+    margin-left: 40%;
     list-style-type: none;
-    overflow: auto;
 }
 nav li {
     display: inline-block;
-    border-right: 5px solid #333;
-    height: 50px;
-    text-align: center;
-    font-size: 24px;
-    padding-left: 110px;
-    padding-right: 110px;
-    margin: 10px;
+    font-size: 25px;
+    width: 200px;
+    height: 30px;
 }
-nav ul li:last-child{
-    border-right: none;
+
+.aarti{
+    float: left;
+    width: auto;
+
 }
-nav li a {
-    display: inline-block;
-    width: 25rem;
-    padding: 8px 16px;
+
+main p{
+    margin-left: 7%;
+    margin-right: 42%;
 }
-.container {
-    position: relative;
-    text-align: center;
+
+.harshit{
+    margin-left: 32%;
+
 }
+
 h1 {
   color: white;  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.facts{
+    margin-left: 32%;
+}
+
 .border {
     padding: 10px;
-    border: 1px solid;
+   margin-left: 32%;
+   margin-right: 28%;
 }
 .wide {
     width: 98%;
