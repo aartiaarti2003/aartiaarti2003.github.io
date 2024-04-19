@@ -6,7 +6,7 @@ p{
 
 h1,h2,h3 {
     font-family: Arial, Helvetica, sans-serif;
-    font-weight: auto;
+    font-weight: 500;
     font-style: normal;
 }
 
@@ -72,8 +72,7 @@ a {
   /* home has diff color */
  
   .home  {
-    background-color: #c78c06;
-    text-align: center;
+    background-color: #ffe6ac;
     padding-bottom: 10px;
     padding-top: 60px;
  }
